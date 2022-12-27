@@ -11,6 +11,7 @@ namespace Segundo_practico.Clases
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public DateTime fechaDeNacimiento { get; set; }
+        public Smartphone smartphone { get; set; }
 
         public string GetNameFull()
         {

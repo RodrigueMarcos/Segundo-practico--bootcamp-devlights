@@ -46,6 +46,8 @@
     <Compile Include="Clases\Auto.cs" />
     <Compile Include="Clases\Cuadrado.cs" />
     <Compile Include="Clases\Ejercicios_anteriores.cs" />
+    <Compile Include="Clases\Estudiante.cs" />
+    <Compile Include="Clases\Libro.cs" />
     <Compile Include="Clases\Mascota.cs" />
     <Compile Include="Clases\Persona.cs" />
     <Compile Include="Clases\Smartphone.cs" />
